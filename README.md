@@ -1,87 +1,95 @@
 <!--
-PROFILE README STARTER — PERSONALIZE BEFORE PUBLISHING
-GitHub profile username assumed from your earlier repo URLs: akash-aanand.
-IMPORTANT: The special repository name must match your actual GitHub username exactly.
-Search for EDIT ME, TODO, and placeholder URLs before committing.
+PROFILE README — cinematic monochrome / muted amber aesthetic
+Before publishing:
+1. Confirm the GitHub username and all project repository URLs.
+2. Update the project names/descriptions if a repo has moved or is private.
+3. Replace the portfolio placeholder when you have a live site.
+The banner is stored locally at assets/monochrome-field-banner.jpg; no external image host is required.
 -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Akash Anand Maurya — Computer Science and Engineering, aspiring full-stack developer" src="./assets/header-light.svg" width="100%">
-</picture>
 
 <p align="center">
-  <strong>Building useful things for the web — one concept, one project, one commit at a time.</strong>
+  <img src="./assets/monochrome-field-banner.jpg" alt="Cinematic monochrome banner showing a line of field operatives, with restrained warm highlights against a black background" width="100%" />
 </p>
 
-<!-- EDIT ME: If you'd prefer a different title, keep this sentence concrete and truthful. -->
-I'm **Akash Anand Maurya**, a Computer Science & Engineering learner focused on becoming a **full-stack developer**. I enjoy understanding how the pieces fit together—from a React interface to an API and its database—not just making code run.
+<h1 align="center">AKASH ANAND MAURYA</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
-  <img alt="Terminal-style snapshot: current stack is JavaScript, React, Node.js, Express, MongoDB, and C++; current focus is building full-stack projects and improving data structures and algorithms" src="./assets/terminal-light.svg" width="100%">
-</picture>
+<p align="center">
+  <strong>ASPIRING FULL-STACK DEVELOPER</strong><br />
+  Building with intent. Learning through the details.
+</p>
 
-## `01` — Current focus
+<p align="center">
+  <a href="https://github.com/akash-aanand">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/akash-anand-maurya-1b2528239/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/AkashAnand83151">X / Twitter</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:akashanandmaurya@gmail.com">Email</a>
+</p>
 
-- **Building:** React interfaces and full-stack JavaScript projects.
-- **Learning:** Node.js, Express, REST APIs, MongoDB/Mongoose, and better project structure.
-- **Practising:** C++ and data structures & algorithms, with an emphasis on understanding the reasoning behind each solution.
-- **Looking for:** Entry-level software development opportunities and projects where I can keep learning by shipping.
+<p align="center"><img src="./assets/section-rule.svg" alt="" width="100%" /></p>
 
-## `02` — Toolkit
+## `01` / PROFILE
 
-**Frontend:** JavaScript · React · HTML · CSS · Tailwind CSS  
-**Backend:** Node.js · Express.js · REST APIs · MongoDB · Mongoose  
-**Core & tools:** C++ · DSA · Python · Git · GitHub
+I'm a **Computer Science & Engineering student** preparing for software development roles. I'm focused on understanding how a complete web product fits together—from a thoughtful React interface to an API, its data layer, and the engineering decisions behind it.
 
-<!-- EDIT ME: Remove technologies you cannot yet discuss comfortably in an interview. Add TypeScript only when you're using it with confidence. -->
+I learn best by building, debugging, revisiting fundamentals, and shipping projects I can explain—not just code that happens to work.
 
-## `03` — Selected work
+<p align="center"><img src="./assets/section-rule.svg" alt="" width="100%" /></p>
 
-<!-- EDIT ME: These project names/URLs are based on projects mentioned in our earlier chats. Open every link before publishing; rename or replace any repo that is private, moved, or has a different URL. -->
+## `02` / CURRENT FOCUS
 
-- **[SuperAI Polaris](https://github.com/akash-aanand/super-ai-polaris)** — Product UI exploration combining TypeScript, interface design, and 3D motion.
-- **[React revision series](https://github.com/akash-aanand/chai-auR-react)** — Small hands-on examples for React fundamentals, state, effects, and Context API.
-- **[Backend Jokes](https://github.com/akash-aanand/backendjokes)** — Backend practice project for getting comfortable with server-side JavaScript and APIs.
+- **Building:** React interfaces and practical full-stack JavaScript projects.
+- **Learning:** Node.js, Express, REST APIs, MongoDB/Mongoose, and maintainable backend structure.
+- **Practising:** C++ and data structures & algorithms to strengthen problem-solving fundamentals.
+- **Working toward:** Entry-level software engineering opportunities and real-world project experience.
 
-<!-- TODO: Replace any link that doesn't open with the exact public repository URL. Pin your strongest 3–6 repositories on your GitHub profile too. -->
+<p align="center"><img src="./assets/section-rule.svg" alt="" width="100%" /></p>
 
-## `04` — How I work
+## `03` / TOOLKIT
 
-- I prefer understanding **why** a pattern works, not only memorising syntax.
-- I learn by building, debugging, revisiting fundamentals, and documenting useful lessons.
-- I'm working toward writing code that is readable, maintainable, and useful to real people.
+| Area | Tools I'm learning and using |
+|:--|:--|
+| **Frontend** | JavaScript · React · HTML · CSS · Tailwind CSS |
+| **Backend** | Node.js · Express.js · REST APIs · MongoDB · Mongoose |
+| **Core & workflow** | C++ · DSA · Python · Git · GitHub |
 
-## `05` — Connect
+<p align="center"><img src="./assets/section-rule.svg" alt="" width="100%" /></p>
 
-- **GitHub:** [@akash-aanand](https://github.com/akash-aanand)
-- **LinkedIn:** [Akash Anand Maurya](https://www.linkedin.com/in/akash-anand-maurya-1b2528239/)
-- **X (Twitter):** [@AkashAnand83151](https://x.com/AkashAnand83151)
-- **Email:** [akashanandmaurya@gmail.com](mailto:akashanandmaurya@gmail.com)
-- **Portfolio:** Coming soon 🚀
-<!--
-OPTIONAL CONTRIBUTION SNAKE
-1. Add .github/workflows/snake.yml from this kit and push it to main.
-2. Run it from the Actions tab once and wait for a successful run.
-3. Confirm these files exist on the output branch:
-   - github-snake.svg
-   - github-snake-dark.svg
-4. Then uncomment the block below.
+## `04` / SELECTED WORK
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash-aanand/akash-aanand/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash-aanand/akash-aanand/output/github-snake.svg">
-  <img alt="Animated snake following the public GitHub contribution graph" src="https://raw.githubusercontent.com/akash-aanand/akash-aanand/output/github-snake.svg" width="100%">
-</picture>
--->
+<!-- Verify that these repositories are public and that each URL is correct before publishing. Replace or remove any project that is not ready to showcase. -->
 
-<!--
-FINAL PRE-PUBLISH CHECK:
-- Confirm your actual GitHub username and repository names.
-- Replace LinkedIn, email, and portfolio placeholders.
-- Remove all EDIT ME / TODO / [Check repo URL] comments.
-- Keep the optional snake block commented until the workflow succeeds.
--->
+### [SuperAI Polaris](https://github.com/akash-aanand/super-ai-polaris)
+Exploring a polished product experience through interface design, TypeScript, and motion.
+
+### [React Revision Series](https://github.com/akash-aanand/chai-auR-react)
+Hands-on React practice covering components, state, effects, and Context API.
+
+### [Backend Jokes](https://github.com/akash-aanand/backendjokes)
+A backend learning project for strengthening server-side JavaScript and API fundamentals.
+
+<p align="center"><img src="./assets/section-rule.svg" alt="" width="100%" /></p>
+
+## `05` / ENGINEERING PRINCIPLES
+
+**Understand the why.** I want to know why a pattern works, where it breaks, and what trade-offs it introduces.
+
+**Build, then refine.** I use projects and debugging to turn concepts into practical skills.
+
+**Keep it maintainable.** Clear names, simple structure, and reliable behaviour matter more than unnecessary complexity.
+
+<p align="center"><img src="./assets/section-rule.svg" alt="" width="100%" /></p>
+
+## `06` / CONNECT
+
+<p>
+  <a href="https://github.com/akash-aanand">GitHub · @akash-aanand</a><br />
+  <a href="https://www.linkedin.com/in/akash-anand-maurya-1b2528239/">LinkedIn · Akash Anand Maurya</a><br />
+  <a href="https://x.com/AkashAnand83151">X · @AkashAnand83151</a><br />
+  <a href="mailto:akashanandmaurya@gmail.com">Email · akashanandmaurya@gmail.com</a><br />
+  <strong>Portfolio · Coming soon</strong>
+</p>
+
+<p align="center"><sub>STAY CURIOUS · SHIP USEFUL THINGS · KEEP IMPROVING</sub></p>

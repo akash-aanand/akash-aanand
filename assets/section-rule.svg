@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="12" viewBox="0 0 1200 12" fill="none">
+  <path d="M0 6H520" stroke="#60636A" stroke-opacity="0.55" stroke-width="1"/>
+  <path d="M680 6H1200" stroke="#60636A" stroke-opacity="0.55" stroke-width="1"/>
+  <path d="M520 6L600 1L680 6L600 11Z" fill="#B58A5B" fill-opacity="0.9"/>
+  <circle cx="600" cy="6" r="1.5" fill="#E6D6C2"/>
+</svg>
