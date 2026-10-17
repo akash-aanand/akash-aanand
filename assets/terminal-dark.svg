@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Development snapshot</title>
+  <desc id="desc">Terminal-style card listing JavaScript, React, Node.js, Express, MongoDB, C++, and current learning goals.</desc>
+  <rect width="1200" height="360" rx="22" fill="#090B14"/>
+  <rect x="2" y="2" width="1196" height="356" rx="20" fill="#111525" stroke="#343B59"/>
+  <path d="M 2 58 H 1198" stroke="#343B59"/>
+  <circle cx="34" cy="30" r="6" fill="#FF7B8B"/><circle cx="55" cy="30" r="6" fill="#FFD166"/><circle cx="76" cy="30" r="6" fill="#B8F7D4"/>
+  <text x="108" y="36" fill="#A3AAC4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">akash@dev-machine — zsh</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">
+    <text x="42" y="103" fill="#78E8F2">$ stack --current</text>
+    <text x="42" y="136" fill="#F4F6FF">JavaScript  ·  React  ·  Node.js  ·  Express  ·  MongoDB</text>
+    <text x="42" y="180" fill="#78E8F2">$ core --practice</text>
+    <text x="42" y="213" fill="#F4F6FF">C++  ·  Data Structures &amp; Algorithms  ·  Python</text>
+    <text x="42" y="257" fill="#78E8F2">$ focus --now</text>
+    <text x="42" y="290" fill="#F4F6FF">Build complete features. Debug deliberately. Learn the why.</text>
+    <text x="42" y="329" fill="#B8F7D4">status: learning in public <tspan fill="#B9A5FF">▌</tspan></text>
+  </g>
+</svg>
